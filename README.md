@@ -3,6 +3,8 @@
 <h1 align="center">Geração de Certificado em PDF</h1> 
 <p align="center">Trata-se de um serviço WEB que recebe os dados do aluno e gera um arquivo PDF desse certificado.</p>
 
+<img src="public/images/Generate Certificate layout.PNG">
+
 
 ### :mag: Sobre o projeto 
 O GenerateCertificate é um projeto em construção iniciado como um desafio de aprendizado. No momento conta com um template HTML único não podendo ser feito upload de outro modelo, futuramente será implementado. A versão rodando localmente salva o pdf do certificado assim que é gerado na pasta do projeto. A versão online localizada no link: [https://generatecertificate.herokuapp.com/] apenas esta gerando sem o download automático, o que futuramente também deverá ser implementado.
